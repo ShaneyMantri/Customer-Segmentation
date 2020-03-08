@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583506920084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "93927392",
+    "id" : "A26B66E2",
+    "lastKnownWriteTime" : 1583662913,
+    "last_content_update" : 1583662913998,
+    "path" : "F:/JHU/Customer_Segmentation/cust.R",
+    "project_path" : "cust.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

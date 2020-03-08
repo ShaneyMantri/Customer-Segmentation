@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583600139147.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3017899430",
+    "id" : "B51B028C",
+    "lastKnownWriteTime" : 1583681856,
+    "last_content_update" : 1583681856778,
+    "path" : "F:/JHU/Customer_Segmentation/clustering.R",
+    "project_path" : "clustering.R",
+    "properties" : {
+        "cursorPosition" : "99,39",
+        "scrollLine" : "84",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

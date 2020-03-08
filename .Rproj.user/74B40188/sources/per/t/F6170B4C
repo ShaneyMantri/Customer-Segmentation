@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583506946574.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4162442241",
+    "id" : "F6170B4C",
+    "lastKnownWriteTime" : 1583681877,
+    "last_content_update" : 1583681877634,
+    "path" : "F:/JHU/Customer_Segmentation/Customer Segmentation.Rmd",
+    "project_path" : "Customer Segmentation.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
